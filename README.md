@@ -48,8 +48,7 @@ A brief explanation on the basic workflow of the application.
 
 1. Clone this repository
 
-   ```shell
-   git clone https://github.com/arlbibek/dVoting.git
+   Download this repository
    cd dVoting
    ```
 
@@ -101,4 +100,4 @@ _Feel free to contribute._
 
 ---
 
-Made with ❤️ by [Bibek Aryal](https://bibeka.com.np/).
+Made with ❤️ by [HHVK](https://hemanthkumars0120.github.io/Mywebsite/).
